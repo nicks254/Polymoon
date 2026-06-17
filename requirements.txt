@@ -1,0 +1,3 @@
+requests
+termcolor
+py-clob-client-v2
